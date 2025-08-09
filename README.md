@@ -195,5 +195,3 @@ npx expo build:ios
 - 問題回饋: [Issues](https://github.com/fengguihao890/invoice-count-/issues)
 
 ---
-
-⭐ 如果這個項目對您有幫助，請給我們一個星標！
